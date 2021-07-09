@@ -1,4 +1,5 @@
 # group-study
+test
 ### 7월 10일
 - 수민 :
 - 지현 :
